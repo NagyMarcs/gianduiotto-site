@@ -8,11 +8,12 @@ Site institucional estático com seleção de produtos, encomendas, apresentaç�
 - `site-data.js`: links de WhatsApp, Instagram e localização.
 - `assets/`: fotografias e fontes locais.
 
-As fotografias e o logotipo pertencem à Gianduiotto e foram obtidos de suas publicações oficiais. Fontes e verificação estão em `FONTES.md`. Fotografias atuais: bolo-mirtilo-novo.jpg, merengue-nancy.jpg, piccolos-selecao.jpg e cafe-brioche.jpg. As imagens anteriores permanecem no histórico e na pasta de arquivos, sem uso na página.
+As fotografias e o logotipo pertencem à Gianduiotto e foram obtidos de suas publicações oficiais. Fontes e verificação estão em `FONTES.md`. Fotografias atuais: bolo-mirtilo-novo.jpg, bolo-crocante-caju.jpg, piccolos-selecao.jpg e cafe-brioche.jpg. As imagens anteriores permanecem no histórico e na pasta de arquivos, sem uso na página.
 
 Fontes Cormorant Garamond e DM Sans, disponibilizadas pelo Google Fonts sob SIL Open Font License. Licenças em `assets/`.
 
 Informações verificadas em 24/09/2026. A seleção de produtos não representa disponibilidade diária nem cardápio completo. Valores e condições de encomenda são confirmados diretamente com o estabelecimento. Sem formulário, cookies de análise ou processamento de pagamentos. Os botões abrem o WhatsApp, sem enviar mensagens automaticamente.
 
 A página está pública para apresentação ao cliente, com `noindex` enquanto o conteúdo passa por sua validação.
+
 

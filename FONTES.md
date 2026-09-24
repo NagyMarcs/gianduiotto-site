@@ -32,3 +32,8 @@ As fotografias anteriores foram substituídas a pedido do cliente. As novas imag
 | merengue-nancy.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DYnNxOamNSZ/ | Merengue Nancy: massa de fécula de batata, suspiro, morangos e chantilly; primeira fotografia. |
 | piccolos-selecao.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DceXy_hp4Sg/ | Piccolos em pratos azuis, sabores Vila Ágape, Funcional e Cacau e Tâmara. |
 | cafe-brioche.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DZqH5H2Jng-/ | Brioche com manteiga na chapa e café, em composição sobre a mesa. |
+
+## Redesenho editorial — 24/09/2026
+Base marfim, texto em tom café, azul da marca reservado a acentos e ao painel suave de encomendas. Todas as fotografias são exibidas com largura fluida e altura natural, sem proporção forçada, zoom ou recorte por CSS. A foto do Merengue, já muito fechada no original, foi retirada da página.
+
+- `assets/bolo-crocante-caju.jpg`: https://www.instagram.com/gianduiottodeliciasecafe/p/DadBbpuRqCo/ — foto original do Bolo Crocante de Caju, produto inteiro; legenda confirma massa de farinha de castanha de caju, brigadeiro branco e crocante de caju. Consultado em 24/09/2026.
