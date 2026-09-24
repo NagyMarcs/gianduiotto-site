@@ -22,3 +22,13 @@ Perfil: Doceria e Cafeteria em Vinhedo. Aqui tem felicidade certa.
 - Publicação de Piccolos confirma fechamento aos domingos.
 
 A publicação antiga de encomendas C6raaZmvgu7 cita outro número, (19) 99934-2849. Para o site, utilizar o link atual da bio acima, não o contato antigo.
+
+## Atualização das fotografias — 24/09/2026
+As fotografias anteriores foram substituídas a pedido do cliente. As novas imagens foram obtidas diretamente dos arquivos originais exibidos pelo perfil oficial, preservadas sem edição. O site usa enquadramentos retangulares, sem inclinações, arcos ou molduras.
+
+| Arquivo | Publicação oficial | Conteúdo confirmado |
+|---|---|---|
+| bolo-mirtilo-novo.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DY77jdqmIgC/ | Bolo de mirtilo com chantilly, calda de mirtilo e frutas frescas; fotografia do carrossel. |
+| merengue-nancy.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DYnNxOamNSZ/ | Merengue Nancy: massa de fécula de batata, suspiro, morangos e chantilly; primeira fotografia. |
+| piccolos-selecao.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DceXy_hp4Sg/ | Piccolos em pratos azuis, sabores Vila Ágape, Funcional e Cacau e Tâmara. |
+| cafe-brioche.jpg | https://www.instagram.com/gianduiottodeliciasecafe/p/DZqH5H2Jng-/ | Brioche com manteiga na chapa e café, em composição sobre a mesa. |

@@ -2,3 +2,23 @@
 
 .topline{font-size:12px;letter-spacing:1.2px}.hero-picture.picture-right img{object-position:center 62%}@media(max-width:800px){.topline{font-size:11px;letter-spacing:.6px}}
 
+/* Fotografias em enquadramentos retos, sem molduras ou recortes decorativos. */
+.hero{grid-template-columns:1fr 1fr;gap:70px;padding:35px 7% 65px;min-height:0;align-items:center}
+.hero-copy{text-align:left;padding:15px 0}
+.hero h1{font-size:clamp(68px,7.2vw,102px);line-height:.96;letter-spacing:-2.5px}
+.hero-copy .quiet-link{margin:18px 0 0}
+.hero-picture{margin:0;transform:none;min-width:0}
+.hero-picture img{height:auto;aspect-ratio:3/4;width:100%;max-height:630px;object-fit:cover;border:0;border-radius:0;box-shadow:none}
+.hero-picture figcaption{margin-top:13px;font:400 12px/1.5 var(--sans);letter-spacing:.5px;text-align:left}
+.product-image{border-radius:0;max-width:none}
+.product img{aspect-ratio:1/1;object-fit:cover}
+.product:nth-child(2) img{object-fit:cover}
+.product:hover img{transform:none}
+.story-picture{margin:0}.story-picture img{height:auto;aspect-ratio:950/1016;object-fit:cover;border-radius:0}
+.anniversary{position:static;border:0;border-radius:0;width:auto;height:auto;display:flex;flex-direction:row;justify-content:flex-start;gap:15px;background:none;padding:20px 0 0}
+.anniversary strong{font-size:40px}.anniversary span{font-size:13px;max-width:none;margin:0}
+@media(min-width:1600px){.hero{padding-left:calc((100vw - 1376px)/2);padding-right:calc((100vw - 1376px)/2)}}
+@media(max-width:1100px){.hero{gap:40px}.hero h1{font-size:80px}}
+@media(max-width:800px){.hero{grid-template-columns:1fr;gap:30px;padding:20px 6% 40px}.hero-copy{grid-column:auto;grid-row:auto;text-align:left}.hero h1{font-size:76px}.hero-copy .eyebrow{margin-bottom:20px}.hero-picture img{height:auto;max-height:none;aspect-ratio:3/4}.hero-picture figcaption{font-size:12px}.product-image{border-radius:0;max-width:none}.product img{aspect-ratio:1/1}.story-picture img{height:auto}.anniversary{width:auto;height:auto}.hero-copy .button{padding:14px 20px}}
+@media(max-width:390px){.hero h1{font-size:68px}}
+
